@@ -1,4 +1,4 @@
 print("Hello!")
-print("We learn Git")
+print("We learn GitHub")
 print ("We add new commit")
 print("New commit in this part")
